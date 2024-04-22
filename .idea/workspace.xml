@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="RotateArray_189">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/BestTimeBuySellStock_121.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/BestTimeBuySellStock_122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BestTimeBuySellStock_121">
+  <component name="RunManager" selected="Application.BestTimeBuySellStock_122">
     <configuration name="BestTimeBuySellStock_121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.BestTimeBuySellStock_121" />
       <module name="LeetCode.main" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RotateArray_189" />
+    <configuration name="BestTimeBuySellStock_122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.BestTimeBuySellStock_122" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BestTimeBuySellStock_122" />
         <item itemvalue="Application.BestTimeBuySellStock_121" />
         <item itemvalue="Gradle.RotateArray_189Test" />
         <item itemvalue="Gradle.RotateArray_189Test.rotate_2" />
         <item itemvalue="Gradle.RotateArray_189Test.rotate" />
-        <item itemvalue="Application.RotateArray_189" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,8 @@
       <workItem from="1712825986791" duration="4165000" />
       <workItem from="1713154177490" duration="89000" />
       <workItem from="1713154396404" duration="10399000" />
-      <workItem from="1713516515697" duration="3487000" />
+      <workItem from="1713516515697" duration="3568000" />
+      <workItem from="1713763710777" duration="3337000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713169919878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1713520026556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713520026556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +233,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="RotateArray_189" />
-    <option name="LAST_COMMIT_MESSAGE" value="RotateArray_189" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$RemoveElementTest_removeElement.ic" NAME="RemoveElementTest.removeElement Coverage Results" MODIFIED="1713154676083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
