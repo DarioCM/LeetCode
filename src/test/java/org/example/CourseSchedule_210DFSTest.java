@@ -1,8 +1,7 @@
 package org.example;
 
+import org.example.codePair.CourseSchedule_210DFS;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CourseSchedule_210DFSTest {
 

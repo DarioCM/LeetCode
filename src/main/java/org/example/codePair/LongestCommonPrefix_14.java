@@ -1,4 +1,4 @@
-import org.example.arrays.JumpGameII_45;
+package org.example.codePair;
 
 import java.util.Arrays;
 import java.util.Comparator;
