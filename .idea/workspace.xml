@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="LargestContainer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codePair/ClosestToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/general/NumberOfIslands_200.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="NumberOfIslands_200">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/general/CloneGraph_133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stack/ValidParentheses_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/codePair/LongestCommonPrefix_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CourseSchedule_210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/codePair/CourseSchedule_210.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CourseSchedule_210DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/codePair/CourseSchedule_210DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/codePair/LargestContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/codePair/LargestContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CourseSchedule_210DFSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CourseSchedule_210DFSTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +167,7 @@
       <workItem from="1713763710777" duration="3358000" />
       <workItem from="1713873030176" duration="4085000" />
       <workItem from="1713925061786" duration="3023000" />
-      <workItem from="1714030107300" duration="35770000" />
+      <workItem from="1714030107300" duration="40525000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -237,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714273473511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="NumberOfIslands_200">
+      <created>1714374543206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714374543206</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +265,8 @@
     <MESSAGE value="CourseSchedule_210" />
     <MESSAGE value="CourseSchedule_210DFS" />
     <MESSAGE value="LargestContainer" />
-    <option name="LAST_COMMIT_MESSAGE" value="LargestContainer" />
+    <MESSAGE value="NumberOfIslands_200" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfIslands_200" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
