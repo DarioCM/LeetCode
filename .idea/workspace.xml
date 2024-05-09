@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="ValidParentheses_20">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/Candy_135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/GasStation_134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/H_Index274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/ProductArrayExceptSelf_238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RandomizedSet_380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashmap/RansomNote383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/arrays/GasStation_134Test.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="greedy algorithm">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stack/Trapping_Rain_Water_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ContainsAllAlphabet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TF_FMT": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -82,7 +76,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Candy_135">
+  <component name="RunManager" selected="Application.ContainsAllAlphabet">
     <configuration name="Candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.Candy_135" />
       <module name="LeetCode.main" />
@@ -96,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H_Index274" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.H_Index274" />
+    <configuration name="ContainsAllAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.ContainsAllAlphabet" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Solution" />
+    <configuration name="Trapping_Rain_Water_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stack.Trapping_Rain_Water_42" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsAllAlphabet" />
+        <item itemvalue="Application.Trapping_Rain_Water_42" />
         <item itemvalue="Application.Candy_135" />
         <item itemvalue="Gradle.GasStation_134Test" />
         <item itemvalue="Application.ProductArrayExceptSelf_238" />
-        <item itemvalue="Application.H_Index274" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +179,8 @@
       <workItem from="1713873030176" duration="4085000" />
       <workItem from="1713925061786" duration="3023000" />
       <workItem from="1714030107300" duration="46285000" />
-      <workItem from="1714626343460" duration="20678000" />
+      <workItem from="1714626343460" duration="20722000" />
+      <workItem from="1715076183666" duration="9695000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -264,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714450837493</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="greedy algorithm">
+      <created>1714983395757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983395757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +294,8 @@
     <MESSAGE value="LargestContainer" />
     <MESSAGE value="NumberOfIslands_200" />
     <MESSAGE value="ValidParentheses_20" />
-    <option name="LAST_COMMIT_MESSAGE" value="ValidParentheses_20" />
+    <MESSAGE value="greedy algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="greedy algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
