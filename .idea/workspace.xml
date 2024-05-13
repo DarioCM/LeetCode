@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="greedy algorithm">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stack/Trapping_Rain_Water_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ContainsAllAlphabet.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="Check if a String Contains All the Letters of the Alphabet">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stringArray/RomanToInt_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsAllAlphabet">
+  <component name="RunManager" selected="Application.RomanToInt_13">
     <configuration name="Candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.Candy_135" />
       <module name="LeetCode.main" />
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductArrayExceptSelf_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.ProductArrayExceptSelf_238" />
+    <configuration name="RomanToInt_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stringArray.RomanToInt_13" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="PATTERN" value="org.example.stringArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomanToInt_13" />
         <item itemvalue="Application.ContainsAllAlphabet" />
         <item itemvalue="Application.Trapping_Rain_Water_42" />
         <item itemvalue="Application.Candy_135" />
         <item itemvalue="Gradle.GasStation_134Test" />
-        <item itemvalue="Application.ProductArrayExceptSelf_238" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +179,7 @@
       <workItem from="1713925061786" duration="3023000" />
       <workItem from="1714030107300" duration="46285000" />
       <workItem from="1714626343460" duration="20722000" />
-      <workItem from="1715076183666" duration="9695000" />
+      <workItem from="1715076183666" duration="16181000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -266,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714983395757</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Check if a String Contains All the Letters of the Alphabet">
+      <created>1715253506350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715253506350</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +301,8 @@
     <MESSAGE value="NumberOfIslands_200" />
     <MESSAGE value="ValidParentheses_20" />
     <MESSAGE value="greedy algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="greedy algorithm" />
+    <MESSAGE value="Check if a String Contains All the Letters of the Alphabet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check if a String Contains All the Letters of the Alphabet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
