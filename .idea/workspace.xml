@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="Check if a String Contains All the Letters of the Alphabet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stringArray/RomanToInt_13.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="RomanToInt_13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stringArray/IntegerToRoman12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RomanToInt_13">
+  <component name="RunManager" selected="Application.IntegerToRoman12">
     <configuration name="Candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.Candy_135" />
       <module name="LeetCode.main" />
@@ -95,6 +95,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerToRoman12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stringArray.IntegerToRoman12" />
+      <module name="LeetCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stringArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,36 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasStation_134Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;org.example.arrays.GasStation_134Test&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerToRoman12" />
         <item itemvalue="Application.RomanToInt_13" />
         <item itemvalue="Application.ContainsAllAlphabet" />
         <item itemvalue="Application.Trapping_Rain_Water_42" />
         <item itemvalue="Application.Candy_135" />
-        <item itemvalue="Gradle.GasStation_134Test" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +169,7 @@
       <workItem from="1713925061786" duration="3023000" />
       <workItem from="1714030107300" duration="46285000" />
       <workItem from="1714626343460" duration="20722000" />
-      <workItem from="1715076183666" duration="16181000" />
+      <workItem from="1715076183666" duration="22591000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -272,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715253506350</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="RomanToInt_13">
+      <created>1715593008979</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715593008979</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +299,8 @@
     <MESSAGE value="ValidParentheses_20" />
     <MESSAGE value="greedy algorithm" />
     <MESSAGE value="Check if a String Contains All the Letters of the Alphabet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check if a String Contains All the Letters of the Alphabet" />
+    <MESSAGE value="RomanToInt_13" />
+    <option name="LAST_COMMIT_MESSAGE" value="RomanToInt_13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
