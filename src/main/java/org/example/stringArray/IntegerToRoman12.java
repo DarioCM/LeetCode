@@ -1,23 +1,27 @@
 package org.example.stringArray;
 
+import java.util.Comparator;
+import java.util.Map;
+import java.util.TreeMap;
+
 public class IntegerToRoman12 {
 
     static final int[] arabics = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
-    static final String[] romanLetters = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
-
+    static final String[] symbols = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I",};
 
     public static String intToRoman(int num) {
 
         StringBuilder result = new StringBuilder();
-        int i = 0;
+        var index = 0;
 
-        for (var arabic: arabics) {
-            while (arabic <= num) {
-                result.append(romanLetters[i]);
+        for(var arabic : arabics){
+            var letter = symbols[index++];
+            while(arabic <= num){
                 num -= arabic;
+                result.append(letter);
             }
-            i++;
         }
+
         return result.toString();
     }
 

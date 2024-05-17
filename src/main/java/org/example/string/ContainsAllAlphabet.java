@@ -15,9 +15,14 @@ public class ContainsAllAlphabet {
 
     public static boolean checkStringForAllTheLetters(String input) {
         //Map<Character, Integer> map = new HashMap<>();
+
+        if (input.isBlank() || input.isEmpty()){
+            return false;
+        }
+
         Set<Character> listSet = new HashSet<>();
         input =  input.toLowerCase();
-        for (var charV : input.toCharArray()) {
+        for (char charV : input.toCharArray()) {
             if ('a' <= charV && charV <= 'z') {
                listSet.add(charV);
             }

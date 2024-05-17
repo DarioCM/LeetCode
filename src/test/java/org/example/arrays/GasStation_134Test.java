@@ -27,6 +27,7 @@ class GasStation_134Test {
         int[] gas = {2, 3, 4};
         int[] cost = {3, 4, 3};
         assertEquals(-1, gasStation_134Test.canCompleteCircuit(gas, cost));
+        assertEquals(true,true);
     }
 
 }
