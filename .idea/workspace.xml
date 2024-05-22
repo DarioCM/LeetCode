@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="FizzBuzz">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mercado/CutTheSticks.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="CutTheSticks.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LengthofLastWord_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestCommonPrefix_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseWord_151.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,20 +77,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CutTheSticks">
-    <configuration name="ContainsAllAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.ContainsAllAlphabet" />
-      <module name="LeetCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LongestCommonPrefix_14">
     <configuration name="CutTheSticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.mercado.CutTheSticks" />
       <module name="LeetCode.main" />
@@ -128,12 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInt_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.stringArray.RomanToInt_13" />
+    <configuration name="LengthofLastWord_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.LengthofLastWord_58" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.stringArray.*" />
+          <option name="PATTERN" value="org.example.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.LongestCommonPrefix_14" />
+      <module name="LeetCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix_14" />
+        <item itemvalue="Application.LengthofLastWord_58" />
         <item itemvalue="Application.CutTheSticks" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.IntegerToRoman12" />
-        <item itemvalue="Application.RomanToInt_13" />
-        <item itemvalue="Application.ContainsAllAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,8 @@
       <workItem from="1713925061786" duration="3023000" />
       <workItem from="1714030107300" duration="46285000" />
       <workItem from="1714626343460" duration="20722000" />
-      <workItem from="1715076183666" duration="36249000" />
+      <workItem from="1715076183666" duration="45864000" />
+      <workItem from="1716262040670" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715931207238</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CutTheSticks.java">
+      <created>1715953777825</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715953777825</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +326,8 @@
     <MESSAGE value="RomanToInt_13" />
     <MESSAGE value="12. Integer to Roman" />
     <MESSAGE value="FizzBuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
+    <MESSAGE value="CutTheSticks.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="CutTheSticks.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
