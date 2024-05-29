@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="FindTheIndex_28">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/TextJustification_68.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="TextJustification_68">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointers/ValidPalindrome_125.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,22 +75,9 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextJustification_68">
+  <component name="RunManager" selected="Application.ValidPalindrome_125">
     <configuration name="FindTheIndex_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.string.FindTheIndex_28" />
-      <module name="LeetCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestCommonPrefix_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.LongestCommonPrefix_14" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
@@ -128,6 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidPalindrome_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.ValidPalindrome_125" />
+      <module name="LeetCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.twoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZigzagConversion_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.string.ZigzagConversion_6" />
       <module name="LeetCode.main" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPalindrome_125" />
         <item itemvalue="Application.TextJustification_68" />
         <item itemvalue="Application.FindTheIndex_28" />
         <item itemvalue="Application.ZigzagConversion_6" />
         <item itemvalue="Application.ReverseWord_151" />
-        <item itemvalue="Application.LongestCommonPrefix_14" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,7 @@
       <workItem from="1714030107300" duration="46285000" />
       <workItem from="1714626343460" duration="20722000" />
       <workItem from="1715076183666" duration="45864000" />
-      <workItem from="1716262040670" duration="36432000" />
+      <workItem from="1716262040670" duration="40707000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716872960237</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="TextJustification_68">
+      <created>1716894797808</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716894797808</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +356,8 @@
     <MESSAGE value="strings" />
     <MESSAGE value="ReverseWord_151" />
     <MESSAGE value="FindTheIndex_28" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTheIndex_28" />
+    <MESSAGE value="TextJustification_68" />
+    <option name="LAST_COMMIT_MESSAGE" value="TextJustification_68" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -360,9 +368,9 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/TextJustification_68.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/twoPointers/ValidPalindrome_125.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
