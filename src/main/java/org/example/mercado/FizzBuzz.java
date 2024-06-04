@@ -22,7 +22,7 @@ public class FizzBuzz {
             } else {
                 System.out.println(n);
             }
-        } while (n++ < 100);
+        } while (n++ < 15);
 
 
     }
