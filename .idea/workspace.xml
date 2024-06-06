@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="ValidPalindrome_125">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointers/IsSubsequence_392.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="IsSubsequence_392">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointers/TwoSum_167.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mercado/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mercado/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsSubsequence_392">
+  <component name="RunManager" selected="Application.TwoSum_167">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.mercado.FizzBuzz" />
       <module name="LeetCode.main" />
@@ -130,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.ValidPalindrome_125" />
+    <configuration name="TwoSum_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.TwoSum_167" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum_167" />
         <item itemvalue="Application.IsSubsequence_392" />
         <item itemvalue="Application.LargestContainer" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.ValidPalindrome_125" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +171,7 @@
       <workItem from="1714626343460" duration="20722000" />
       <workItem from="1715076183666" duration="45864000" />
       <workItem from="1716262040670" duration="49573000" />
-      <workItem from="1717494832335" duration="5001000" />
+      <workItem from="1717494832335" duration="19417000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -329,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716961056816</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="IsSubsequence_392">
+      <created>1717500041440</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717500041440</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +373,8 @@
     <MESSAGE value="FindTheIndex_28" />
     <MESSAGE value="TextJustification_68" />
     <MESSAGE value="ValidPalindrome_125" />
-    <option name="LAST_COMMIT_MESSAGE" value="ValidPalindrome_125" />
+    <MESSAGE value="IsSubsequence_392" />
+    <option name="LAST_COMMIT_MESSAGE" value="IsSubsequence_392" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
