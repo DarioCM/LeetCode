@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="11. Container With Most Water">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashmap/ValidAnagram242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointers/Sum3_15.java" afterDir="false" />
+    <list default="true" id="55d6f5c9-5220-4264-b4aa-dbfd7b45a364" name="Changes" comment="15. 3Sum">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Citi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,31 +39,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DarioCM/LeetCode&quot;,
+    &quot;accountId&quot;: &quot;42b82041-507a-4542-8fab-71917733e0e3&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2eXitZxhhLPPusyXCFs6JGRlsE2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TF_FMT&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.LeetCode [:Citi.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TF_FMT": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -76,13 +91,13 @@
       <recent name="org.example.arrays.remove_element27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum3_15">
-    <configuration name="ContainerMostWater_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.ContainerMostWater_11" />
+  <component name="RunManager" selected="Application.Citi">
+    <configuration name="Citi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Citi" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.twoPointers.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequence_392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.IsSubsequence_392" />
+    <configuration name="ContainerMostWater_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.twoPointers.ContainerMostWater_11" />
       <module name="LeetCode.main" />
       <extension name="coverage">
         <pattern>
@@ -144,13 +159,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Citi" />
         <item itemvalue="Application.Sum3_15" />
         <item itemvalue="Application.ValidAnagram242" />
         <item itemvalue="Application.ContainerMostWater_11" />
         <item itemvalue="Application.TwoSum_167" />
-        <item itemvalue="Application.IsSubsequence_392" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -174,7 +197,10 @@
       <workItem from="1716262040670" duration="49573000" />
       <workItem from="1717494832335" duration="23545000" />
       <workItem from="1717741798107" duration="155000" />
-      <workItem from="1718175856015" duration="3073000" />
+      <workItem from="1718175856015" duration="3818000" />
+      <workItem from="1718596109704" duration="154000" />
+      <workItem from="1718596541916" duration="1076000" />
+      <workItem from="1718693721911" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712116994746</created>
@@ -351,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717660122888</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="15. 3Sum">
+      <created>1718179487332</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718179487332</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +426,8 @@
     <MESSAGE value="IsSubsequence_392" />
     <MESSAGE value="TwoSum_167.java" />
     <MESSAGE value="11. Container With Most Water" />
-    <option name="LAST_COMMIT_MESSAGE" value="11. Container With Most Water" />
+    <MESSAGE value="15. 3Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="15. 3Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
